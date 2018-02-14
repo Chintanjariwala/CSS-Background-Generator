@@ -1,1 +1,1 @@
-# CSS-Background-Generator-
+# CSS-Background-Generator
